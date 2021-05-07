@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋 I'm Jayavardhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayavardhan3112&label=Profile%20views&color=0e75b6&style=plastic" alt="jayavardhan" /> </p>
 
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working for [Reverie Language Technologies]https://github.com/orgs/reverieinc/teams/anuvadak)
-
 - 📫 How to reach me **Twitter - [@thejayavardhan](https://twitter.com/thejayavardhan)**
-
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.yml`
+- 💬 Ping me about **prisma**, **golang**, **mongoDB**, **Azure**, **Redux**
 - ⚡ Fun fact **I'm a noob.**
 
 

@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jayavardhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en" alt="jayavardhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" alt="jayavardhan" /></p>
 
 ---

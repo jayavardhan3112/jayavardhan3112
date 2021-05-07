@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working for [Reverie Language Technologies]https://github.com/orgs/reverieinc/teams/anuvadak)
 
-- 🌐 Website
-
 - 📫 How to reach me **Twitter - [@thejayavardhan](https://twitter.com/thejayavardhan)**
 
 - ⚡ Fun fact **I'm a noob.**

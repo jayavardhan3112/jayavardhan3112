@@ -23,8 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xditya" /></p>
 
----
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en" alt="xditya" /></p>
 
 ---

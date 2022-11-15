@@ -31,6 +31,7 @@
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
 </div>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jayavardhan3112&show_icons=true&theme=tokyonight&hide=TeX&layout=compact)
 
 ---

@@ -4,10 +4,10 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 I'm Currently pursuing a Master's degree in computer science at **[Arizona State University](https://www.asu.edu/)**
-- 💻 I worked for **[Reverie Language Technologies](https://github.com/orgs/reverieinc/teams/anuvadak)**
+- 💻 I worked for **[Arizona State University](https://www.asu.edu)**
 - 📫 How to reach me **Twitter - [@thejayavardhan](https://twitter.com/thejayavardhan)**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.py`, `.go`
-- 💬 Ping me about **prisma**, **golang**, **mongoDB**, **Azure**, **Redux**
+- 💬 Ping me about **React**, **NextJS**, **mongoDB**, **Azure**
 - ⚡ Fun fact **I'm a noob.**
 
 ---

@@ -37,5 +37,5 @@
 ---
 
 [twitter]: https://twitter.com/thejayavardhan
-[instagram]: https://instagram.com/jai_3112
-[linkedin]: https://linkedin.com/in/jayavardhan3112
+[instagram]: https://instagram.com/trippinwithjai
+[linkedin]: https://linkedin.com/in/jayavardhan-karampudi

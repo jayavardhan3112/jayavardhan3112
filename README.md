@@ -62,7 +62,9 @@
 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="26px" style="padding-right:10px;"/>](https://redis.io)
 
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="26px" style="padding-right:10px;"  />](https://www.nginx.com)
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="26px" style="padding-right:10px;" />](https://www.nginx.com)
+
+[<img align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="26px"/>](https://kubernetes.io)
 
 <br />
 <br />

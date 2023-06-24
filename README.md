@@ -1,19 +1,17 @@
 
 <h1 align="center">Hi 👋 I'm Jayavardhan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayavardhan3112&label=Profile%20views&color=0e75b6&style=plastic" alt="jayavardhan" /> 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<p align="left"> 
+<!--   <img src="https://komarev.com/ghpvc/?username=jayavardhan3112&label=Profile%20views&color=0e75b6&style=plastic" alt="jayavardhan" />  -->
+<!-- <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /> -->
+<img align='right' src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-size_restricted.gif" width="240" />
 </p>
 
+- 💻 Software Engineer at **[Artifact](https://www.gotartifact.com/)**, Master's in CS from **[Arizona State University](https://www.asu.edu/)**
 - 😄 Pronouns: He/Him
-- 💻 I am currently a Sofware Engineer at **[Artifact](https://www.gotartifact.com/)**
-- 🔭 I have a Master's degree in computer science from **[Arizona State University](https://www.asu.edu/)**
-- 📫 How to reach me **Twitter - [@thejayavardhan](https://twitter.com/thejayavardhan)**
-- ⚙️ I use daily: `.js`, `.css`, `.ts`, `.py`, `.go`
-- 💬 Ping me about **React**, **NextJS**, **mongoDB**, **Azure**
-- ⚡ Fun fact **I'm a noob.**
-
-
+- ⚙️ Tech: `.js`, `.css`, `.ts`, `.py`, `.go`
+- 💬 Interested in **React**, **NextJS**, **mongoDB**, **Azure**
+- ⚡ Fun Fact: **I'm a self-proclaimed coding noob!**
 
 ## Connect with me:
 
@@ -30,8 +28,7 @@
 
 ## 👨🏻‍💻 GitHub Usage stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jayavardhan3112&show_icons=true&theme=tokyonight&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jayavardhan3112&show_icons=true&theme=tokyonight&hide=TeX&layout=compact)
 
 
 [twitter]: https://twitter.com/thejayavardhan

@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayavardhan3112&label=Profile%20views&color=0e75b6&style=plastic" alt="jayavardhan" /> </p>
 
 - 😄 Pronouns: He/Him
-- 🔭 I'm Currently pursuing a Master's degree in computer science at **[Arizona State University](https://www.asu.edu/)**
-- 💻 I worked for **[Arizona State University](https://www.asu.edu)**
+- 💻 I am currently a Sofware Engineer at **[Artifact](https://www.gotartifact.com/)**
+- 🔭 I have a Master's degree in computer science from **[Arizona State University](https://www.asu.edu/)**
 - 📫 How to reach me **Twitter - [@thejayavardhan](https://twitter.com/thejayavardhan)**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.py`, `.go`
+- ⚙️ I use daily: `.js`, `.css`, `.ts`, `.py`, `.go`
 - 💬 Ping me about **React**, **NextJS**, **mongoDB**, **Azure**
 - ⚡ Fun fact **I'm a noob.**
 

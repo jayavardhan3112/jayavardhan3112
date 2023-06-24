@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 I'm Jayavardhan</h1>
+<h1 align="center">Hi 👋 I'm Jay</h1>
 
 <p align="left"> 
 <!--   <img src="https://komarev.com/ghpvc/?username=jayavardhan3112&label=Profile%20views&color=0e75b6&style=plastic" alt="jayavardhan" />  -->
@@ -17,9 +17,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Jay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="Jay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
+[<img align="left" style="padding-right:10px;" alt="Jay's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" style="padding-right:10px;" alt="Jay's Twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" style="padding-right:10px;" alt="Jay's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
 
 <br />
 <br />
@@ -69,7 +69,7 @@
 <br />
 <br />
 
-## 👨🏻‍💻 GitHub Usage stats:
+## GitHub Usage stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jayavardhan3112&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jayavardhan3112&show_icons=true&theme=tokyonight&hide=TeX&layout=compact)
 

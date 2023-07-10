@@ -17,9 +17,9 @@
 
 ## Connect with me:
 
-[<img align="left" style="padding-right:10px;" alt="Jay's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" style="padding-right:10px;" alt="Jay's Twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" style="padding-right:10px;" alt="Jay's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
+[<img align="left" style="padding-right:10px;" alt="Jay's LinkedIN" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" style="padding-right:10px;" alt="Jay's Twitter" width="28px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+[<img align="left" style="padding-right:10px;" alt="Jay's Instagram" width="28px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />

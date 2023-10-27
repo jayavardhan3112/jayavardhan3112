@@ -7,7 +7,7 @@
 <img align='right' src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-size_restricted.gif" width="240" />
 </p>
 
-- 💻 Software Engineer at **[Artifact](https://www.gotartifact.com/)**, Master's in CS from **[Arizona State University](https://www.asu.edu/)**
+- 💻 Lead Software Engineer at **[Artifact](https://www.gotartifact.com/)**, Master's in CS from **[Arizona State University](https://www.asu.edu/)**
 - 😄 Pronouns: He/Him
 - ⚙️ Tech: `.js`, `.css`, `.ts`, `.py`, `.go`
 - 💬 Interested in **React**, **NextJS**, **mongoDB**, **Azure**
